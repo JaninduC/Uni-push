@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.wonder</groupId>
-	<artifactId>unip-push</artifactId>
+	<artifactId>uni-push</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>unip-push</name>
+	<name>uni-push</name>
 	<description>Demo project for Uni-push notification</description>
 	<properties>
 		<java.version>17</java.version>
