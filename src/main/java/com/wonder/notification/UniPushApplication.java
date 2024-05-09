@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UnipPushApplication {
+public class UniPushApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UnipPushApplication.class, args);
+		SpringApplication.run(UniPushApplication.class, args);
 	}
 
 }
